@@ -1,0 +1,7 @@
+[
+    {"pid":101,"pname":"A","price":45678,"image":"product1.jpg"},
+    {"pid":102,"pname":"B","price":55678,"image":"product2.jpg"},
+    {"pid":103,"pname":"C","price":35678,"image":"product3.jpg"},
+    {"pid":104,"pname":"D","price":25678,"image":"product4.jpg"},
+    {"pid":105,"pname":"E","price":44378,"image":"product5.jpg"}
+]
